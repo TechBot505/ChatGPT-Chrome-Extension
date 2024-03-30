@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# ChatGPT Chrome Extension
+  Meet the ChatGPT Chrome Extension: Your AI-powered browsing companion. With OpenAI API, Manifest V3, and React.js, it brings intelligent chat features to your browser. Get instant answers,          engaging conversations, and helpful suggestions—all from your browser toolbar. Elevate your browsing experience with ChatGPT.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
